@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="949"
+   height="256"
+   viewbox="0 0 949 256"
+   id="svg12"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.1580611"
+     inkscape:cx="474.5"
+     inkscape:cy="128.23157"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <path
+     fill="#2366d1"
+     d="M110.85125168440814 128L221.70250336881628 192L110.85125168440814 256L0 192Z"
+     id="path2" />
+  <path
+     fill="#609dff"
+     d="M110.85125168440814 64L221.70250336881628 128L110.85125168440814 192L0 128Z"
+     id="path4" />
+  <path
+     fill="#a4c7ff"
+     d="M110.85125168440814 0L221.70250336881628 64L110.85125168440814 128L0 64Z"
+     id="path6" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:206.792px;line-height:1.25;font-family:Candara;-inkscape-font-specification:'Candara Bold';stroke-width:1.07704"
+     x="351.8045"
+     y="171.1268"
+     id="text1640"
+     transform="scale(0.81982829,1.2197676)"><tspan
+       sodipodi:role="line"
+       id="tspan1638"
+       x="351.8045"
+       y="171.1268"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Candara;-inkscape-font-specification:'Candara Bold';stroke-width:1.07704">DESTINY</tspan></text>
+</svg>
